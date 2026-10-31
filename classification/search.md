@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # China trademark classification search
 
 Search all **32,665 goods and services items** of the Chinese Nice Classification — in English or in Chinese — and see exactly where each item sits in the class structure CNIPA examines against.
