@@ -68,7 +68,7 @@ It is a legitimate price point when an agency files directly, works in volume, a
 
 ---
 
-**Get a fixed quote for your classes** — [free availability check and written quotation](https://china-trademark.net/quote.php), no obligation, English reply usually within one business day.
+**Get a fixed quote for your classes** — [free availability check and written quotation](https://portal.mycntm.com/?page=support&intent=quote&service=registration), no obligation, English reply usually within one business day.
 
 **Related guides:** [How long registration takes](01-how-long-does-china-trademark-registration-take.md) · [Madrid vs direct filing](03-madrid-protocol-vs-direct-cnipa-filing.md) · [Nice classification for China](05-nice-classification-guide-china.md)
 

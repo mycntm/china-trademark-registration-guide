@@ -1,6 +1,6 @@
 # Class 41 — 教育娱乐 / Education and entertainment
 
-[← Class 40](class-40-material-treatment.md) · [All 45 classes](README.md) · [Class 42 →](class-42-computer-software.md)
+[← Class 40](class-40-material-treatment.md) · [All 45 classes](README.md) · [Class 42 →](class-42-computer-software.md) · [Search in Class 41](search.md?class=41)
 
 > **Nice Classification, Class 41** — 7 sub-classes (类似群) and **751 goods/services items**, Chinese–English, as used by CNIPA (China). Part of the [45-class bilingual classification dataset](README.md) from [china-trademark.net](https://china-trademark.net/).
 
@@ -820,7 +820,7 @@ Education; providing of training; entertainment; sporting and cultural activitie
 
 ---
 
-**Filing in Class 41?** [Free availability check and fixed quote](https://china-trademark.net/quote.php) — USD 199 per class, CNIPA official fee included, English service.
+**Filing in Class 41?** [Get a fixed quote](https://portal.mycntm.com/?page=support&intent=quote&service=registration) — USD 199 per class, CNIPA official fee included, English service.
 
 [All 45 classes](README.md) · [Class selection guide](../guides/05-nice-classification-guide-china.md) · [Cost and fees](../guides/02-china-trademark-cost-and-official-fees.md) · [Home](https://china-trademark.net/)
 

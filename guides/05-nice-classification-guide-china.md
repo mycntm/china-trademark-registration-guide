@@ -75,7 +75,7 @@ That is four classes, roughly USD 796, and it closes the gaps a copycat would ot
 
 ---
 
-**Get a class recommendation with your free search** — [tell us what you sell](https://china-trademark.net/quote.php) and we will come back with classes, sub-class rationale and a fixed quote.
+**Get a class recommendation with your free search** — [tell us what you sell](https://portal.mycntm.com/?page=support&intent=quote&service=registration) and we will come back with classes, sub-class rationale and a fixed quote.
 
 **Related guides:** [How long registration takes](01-how-long-does-china-trademark-registration-take.md) · [Cost and official fees](02-china-trademark-cost-and-official-fees.md) · [Recovering your brand from a squatter](04-china-trademark-squatters-recover-your-brand.md)
 

@@ -1,6 +1,6 @@
 # Class 45 — 社会法律 / Personal and legal services
 
-[← Class 44](class-44-medical-beauty-agricultural.md) · [All 45 classes](README.md)
+[← Class 44](class-44-medical-beauty-agricultural.md) · [All 45 classes](README.md) · [Search in Class 45](search.md?class=45)
 
 > **Nice Classification, Class 45** — 6 sub-classes (类似群) and **291 goods/services items**, Chinese–English, as used by CNIPA (China). Part of the [45-class bilingual classification dataset](README.md) from [china-trademark.net](https://china-trademark.net/).
 
@@ -354,7 +354,7 @@ Legal services; security services for the protection of property and individuals
 
 ---
 
-**Filing in Class 45?** [Free availability check and fixed quote](https://china-trademark.net/quote.php) — USD 199 per class, CNIPA official fee included, English service.
+**Filing in Class 45?** [Get a fixed quote](https://portal.mycntm.com/?page=support&intent=quote&service=registration) — USD 199 per class, CNIPA official fee included, English service.
 
 [All 45 classes](README.md) · [Class selection guide](../guides/05-nice-classification-guide-china.md) · [Cost and fees](../guides/02-china-trademark-cost-and-official-fees.md) · [Home](https://china-trademark.net/)
 

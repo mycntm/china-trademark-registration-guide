@@ -1,6 +1,6 @@
 # Class 10 — 医疗器械 / Medical apparatus
 
-[← Class 09](class-09-electrical-scientific.md) · [All 45 classes](README.md) · [Class 11 →](class-11-environmental-control.md)
+[← Class 09](class-09-electrical-scientific.md) · [All 45 classes](README.md) · [Class 11 →](class-11-environmental-control.md) · [Search in Class 10](search.md?class=10)
 
 > **Nice Classification, Class 10** — 9 sub-classes (类似群) and **900 goods/services items**, Chinese–English, as used by CNIPA (China). Part of the [45-class bilingual classification dataset](README.md) from [china-trademark.net](https://china-trademark.net/).
 
@@ -981,7 +981,7 @@ Surgical, medical, dental and veterinary apparatus and instruments, artificial l
 
 ---
 
-**Filing in Class 10?** [Free availability check and fixed quote](https://china-trademark.net/quote.php) — USD 199 per class, CNIPA official fee included, English service.
+**Filing in Class 10?** [Get a fixed quote](https://portal.mycntm.com/?page=support&intent=quote&service=registration) — USD 199 per class, CNIPA official fee included, English service.
 
 [All 45 classes](README.md) · [Class selection guide](../guides/05-nice-classification-guide-china.md) · [Cost and fees](../guides/02-china-trademark-cost-and-official-fees.md) · [Home](https://china-trademark.net/)
 

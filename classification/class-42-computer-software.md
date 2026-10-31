@@ -1,6 +1,6 @@
 # Class 42 — 设计研究 / Computer and software services
 
-[← Class 41](class-41-education-entertainment.md) · [All 45 classes](README.md) · [Class 43 →](class-43-restaurant-hotel.md)
+[← Class 41](class-41-education-entertainment.md) · [All 45 classes](README.md) · [Class 43 →](class-43-restaurant-hotel.md) · [Search in Class 42](search.md?class=42)
 
 > **Nice Classification, Class 42** — 12 sub-classes (类似群) and **908 goods/services items**, Chinese–English, as used by CNIPA (China). Part of the [45-class bilingual classification dataset](README.md) from [china-trademark.net](https://china-trademark.net/).
 
@@ -1007,7 +1007,7 @@ Scientific and technological services and research and design relating thereto; 
 
 ---
 
-**Filing in Class 42?** [Free availability check and fixed quote](https://china-trademark.net/quote.php) — USD 199 per class, CNIPA official fee included, English service.
+**Filing in Class 42?** [Get a fixed quote](https://portal.mycntm.com/?page=support&intent=quote&service=registration) — USD 199 per class, CNIPA official fee included, English service.
 
 [All 45 classes](README.md) · [Class selection guide](../guides/05-nice-classification-guide-china.md) · [Cost and fees](../guides/02-china-trademark-cost-and-official-fees.md) · [Home](https://china-trademark.net/)
 

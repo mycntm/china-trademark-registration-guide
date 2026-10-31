@@ -1,6 +1,6 @@
 # Class 23 — 纱线丝 / Yarns and threads
 
-[← Class 22](class-22-cordage-fibers.md) · [All 45 classes](README.md) · [Class 24 →](class-24-fabrics.md)
+[← Class 22](class-22-cordage-fibers.md) · [All 45 classes](README.md) · [Class 24 →](class-24-fabrics.md) · [Search in Class 23](search.md?class=23)
 
 > **Nice Classification, Class 23** — 3 sub-classes (类似群) and **132 goods/services items**, Chinese–English, as used by CNIPA (China). Part of the [45-class bilingual classification dataset](README.md) from [china-trademark.net](https://china-trademark.net/).
 
@@ -177,7 +177,7 @@ Yarns and threads, for textile use.
 
 ---
 
-**Filing in Class 23?** [Free availability check and fixed quote](https://china-trademark.net/quote.php) — USD 199 per class, CNIPA official fee included, English service.
+**Filing in Class 23?** [Get a fixed quote](https://portal.mycntm.com/?page=support&intent=quote&service=registration) — USD 199 per class, CNIPA official fee included, English service.
 
 [All 45 classes](README.md) · [Class selection guide](../guides/05-nice-classification-guide-china.md) · [Cost and fees](../guides/02-china-trademark-cost-and-official-fees.md) · [Home](https://china-trademark.net/)
 

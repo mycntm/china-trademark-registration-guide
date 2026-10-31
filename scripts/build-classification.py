@@ -28,6 +28,9 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
 SITE = "https://china-trademark.net"
+
+QUOTE = "https://portal.mycntm.com/?page=support&intent=quote&service=registration"
+ENQUIRY = "https://portal.mycntm.com/?page=enquiry"
 REVIEWED = "October 2026"
 
 STOPWORDS = {"and", "or", "of", "for", "the", "to", "by", "in", "with", "not", "other", "than"}
@@ -166,6 +169,7 @@ def build(src: Path) -> None:
         nav.append("[All 45 classes](README.md)")
         if next_c:
             nav.append(f"[Class {next_c['code']} →]({page_names[next_c['code']]})")
+        nav.append(f"[Search in Class {code}](search.md?class={code})")
 
         lines = [
             f"# Class {code} — {c['zh']} / {c['en']}",
@@ -225,7 +229,7 @@ def build(src: Path) -> None:
         lines += [
             "---",
             "",
-            f"**Filing in Class {code}?** [Free availability check and fixed quote]({SITE}/quote.php) — "
+            f"**Filing in Class {code}?** [Get a fixed quote]({QUOTE}) — "
             "USD 199 per class, CNIPA official fee included, English service.",
             "",
             "[All 45 classes](README.md) · [Class selection guide](../guides/05-nice-classification-guide-china.md) · "
@@ -257,8 +261,8 @@ def build(src: Path) -> None:
         "45 classes, 495 sub-classes and every listed goods/services item in both languages — "
         "as **Markdown pages**, **CSV** and **JSON**.",
         "",
-        "**[← Back to the main guide](../README.md)** · **[Free availability check](%s/search.php)** · "
-        "**[Class selection guide](../guides/05-nice-classification-guide-china.md)**" % SITE,
+        "**[← Back to the main guide](../README.md)** · **[Free availability check](https://portal.mycntm.com/?page=enquiry)** · "
+        "**[Class selection guide](../guides/05-nice-classification-guide-china.md)**",
         "",
         "---",
         "",
@@ -359,7 +363,7 @@ def build(src: Path) -> None:
         "---",
         "",
         f"由 [MY CNTM]({SITE}/about.php) 维护 · CNIPA 注册代理 · 商标注册 USD 199/类（含官费）· "
-        f"[免费查询]({SITE}/search.php) · [报价]({SITE}/quote.php)",
+        f"[免费查询]({ENQUIRY}) · [报价]({QUOTE})",
         "",
     ]
     (REPO / "classification/README.md").write_text("\n".join(idx), encoding="utf-8", newline="\n")

@@ -1,6 +1,6 @@
 # Class 06 — 金属材料 / Metal products
 
-[← Class 05](class-05-pharmaceuticals.md) · [All 45 classes](README.md) · [Class 07 →](class-07-machinery.md)
+[← Class 05](class-05-pharmaceuticals.md) · [All 45 classes](README.md) · [Class 07 →](class-07-machinery.md) · [Search in Class 06](search.md?class=06)
 
 > **Nice Classification, Class 06** — 24 sub-classes (类似群) and **931 goods/services items**, Chinese–English, as used by CNIPA (China). Part of the [45-class bilingual classification dataset](README.md) from [china-trademark.net](https://china-trademark.net/).
 
@@ -1102,7 +1102,7 @@ Common metals and their alloys; metal building materials; transportable building
 
 ---
 
-**Filing in Class 06?** [Free availability check and fixed quote](https://china-trademark.net/quote.php) — USD 199 per class, CNIPA official fee included, English service.
+**Filing in Class 06?** [Get a fixed quote](https://portal.mycntm.com/?page=support&intent=quote&service=registration) — USD 199 per class, CNIPA official fee included, English service.
 
 [All 45 classes](README.md) · [Class selection guide](../guides/05-nice-classification-guide-china.md) · [Cost and fees](../guides/02-china-trademark-cost-and-official-fees.md) · [Home](https://china-trademark.net/)
 

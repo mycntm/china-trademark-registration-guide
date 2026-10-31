@@ -1,6 +1,6 @@
 # Class 31 — 饲料种籽 / Agricultural products
 
-[← Class 30](class-30-staple-foods.md) · [All 45 classes](README.md) · [Class 32 →](class-32-light-beverages.md)
+[← Class 30](class-30-staple-foods.md) · [All 45 classes](README.md) · [Class 32 →](class-32-light-beverages.md) · [Search in Class 31](search.md?class=31)
 
 > **Nice Classification, Class 31** — 10 sub-classes (类似群) and **637 goods/services items**, Chinese–English, as used by CNIPA (China). Part of the [45-class bilingual classification dataset](README.md) from [china-trademark.net](https://china-trademark.net/).
 
@@ -724,7 +724,7 @@ Grains and agricultural, horticultural and forestry products not included in oth
 
 ---
 
-**Filing in Class 31?** [Free availability check and fixed quote](https://china-trademark.net/quote.php) — USD 199 per class, CNIPA official fee included, English service.
+**Filing in Class 31?** [Get a fixed quote](https://portal.mycntm.com/?page=support&intent=quote&service=registration) — USD 199 per class, CNIPA official fee included, English service.
 
 [All 45 classes](README.md) · [Class selection guide](../guides/05-nice-classification-guide-china.md) · [Cost and fees](../guides/02-china-trademark-cost-and-official-fees.md) · [Home](https://china-trademark.net/)
 

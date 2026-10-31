@@ -1,6 +1,6 @@
 # Class 22 — 绳网袋篷 / Cordage and fibers
 
-[← Class 21](class-21-housewares-glass.md) · [All 45 classes](README.md) · [Class 23 →](class-23-yarns-threads.md)
+[← Class 21](class-21-housewares-glass.md) · [All 45 classes](README.md) · [Class 23 →](class-23-yarns-threads.md) · [Search in Class 22](search.md?class=22)
 
 > **Nice Classification, Class 22** — 5 sub-classes (类似群) and **262 goods/services items**, Chinese–English, as used by CNIPA (China). Part of the [45-class bilingual classification dataset](README.md) from [china-trademark.net](https://china-trademark.net/).
 
@@ -319,7 +319,7 @@ Ropes, string, nets, tents, awnings, tarpaulins, sails, sacks and bags (not incl
 
 ---
 
-**Filing in Class 22?** [Free availability check and fixed quote](https://china-trademark.net/quote.php) — USD 199 per class, CNIPA official fee included, English service.
+**Filing in Class 22?** [Get a fixed quote](https://portal.mycntm.com/?page=support&intent=quote&service=registration) — USD 199 per class, CNIPA official fee included, English service.
 
 [All 45 classes](README.md) · [Class selection guide](../guides/05-nice-classification-guide-china.md) · [Cost and fees](../guides/02-china-trademark-cost-and-official-fees.md) · [Home](https://china-trademark.net/)
 

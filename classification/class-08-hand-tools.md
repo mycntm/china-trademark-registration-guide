@@ -1,6 +1,6 @@
 # Class 08 — 手工器械 / Hand tools
 
-[← Class 07](class-07-machinery.md) · [All 45 classes](README.md) · [Class 09 →](class-09-electrical-scientific.md)
+[← Class 07](class-07-machinery.md) · [All 45 classes](README.md) · [Class 09 →](class-09-electrical-scientific.md) · [Search in Class 08](search.md?class=08)
 
 > **Nice Classification, Class 08** — 13 sub-classes (类似群) and **656 goods/services items**, Chinese–English, as used by CNIPA (China). Part of the [45-class bilingual classification dataset](README.md) from [china-trademark.net](https://china-trademark.net/).
 
@@ -761,7 +761,7 @@ Hand tools and implements (hand-operated); cutlery; side arms; razors.
 
 ---
 
-**Filing in Class 08?** [Free availability check and fixed quote](https://china-trademark.net/quote.php) — USD 199 per class, CNIPA official fee included, English service.
+**Filing in Class 08?** [Get a fixed quote](https://portal.mycntm.com/?page=support&intent=quote&service=registration) — USD 199 per class, CNIPA official fee included, English service.
 
 [All 45 classes](README.md) · [Class selection guide](../guides/05-nice-classification-guide-china.md) · [Cost and fees](../guides/02-china-trademark-cost-and-official-fees.md) · [Home](https://china-trademark.net/)
 

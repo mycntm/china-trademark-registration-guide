@@ -61,7 +61,7 @@ A common hybrid: direct CNIPA filing for the core mark in your key classes now, 
 
 ---
 
-**Not sure which route fits?** [Send us your international registration number](https://china-trademark.net/contact.php) or [request a quote](https://china-trademark.net/quote.php) and we will tell you which is cheaper and faster for your specific classes.
+**Not sure which route fits?** [Send us your international registration number](https://china-trademark.net/contact.php) or [request a quote](https://portal.mycntm.com/?page=support&intent=quote&service=registration) and we will tell you which is cheaper and faster for your specific classes.
 
 **Related guides:** [How long registration takes](01-how-long-does-china-trademark-registration-take.md) · [Cost and official fees](02-china-trademark-cost-and-official-fees.md) · [Recovering your brand from a squatter](04-china-trademark-squatters-recover-your-brand.md)
 

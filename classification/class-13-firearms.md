@@ -1,6 +1,6 @@
 # Class 13 — 军火烟火 / Firearms
 
-[← Class 12](class-12-vehicles.md) · [All 45 classes](README.md) · [Class 14 →](class-14-jewelry.md)
+[← Class 12](class-12-vehicles.md) · [All 45 classes](README.md) · [Class 14 →](class-14-jewelry.md) · [Search in Class 13](search.md?class=13)
 
 > **Nice Classification, Class 13** — 4 sub-classes (类似群) and **185 goods/services items**, Chinese–English, as used by CNIPA (China). Part of the [45-class bilingual classification dataset](README.md) from [china-trademark.net](https://china-trademark.net/).
 
@@ -236,7 +236,7 @@ Firearms; ammunition and projectiles; explosives; fireworks.
 
 ---
 
-**Filing in Class 13?** [Free availability check and fixed quote](https://china-trademark.net/quote.php) — USD 199 per class, CNIPA official fee included, English service.
+**Filing in Class 13?** [Get a fixed quote](https://portal.mycntm.com/?page=support&intent=quote&service=registration) — USD 199 per class, CNIPA official fee included, English service.
 
 [All 45 classes](README.md) · [Class selection guide](../guides/05-nice-classification-guide-china.md) · [Cost and fees](../guides/02-china-trademark-cost-and-official-fees.md) · [Home](https://china-trademark.net/)
 

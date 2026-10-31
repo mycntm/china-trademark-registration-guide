@@ -22,8 +22,8 @@ hide:
 <div class="hero__actions" markdown>
 
 [Read the guides](guides/index.md){ .md-button .md-button--primary }
-[45 类中英对照](classification/index.md){ .md-button }
-[Free availability check](https://china-trademark.net/search.php){ .md-button }
+[Search the classification](classification/search.md){ .md-button }
+[Free availability check](https://portal.mycntm.com/?page=enquiry){ .md-button }
 
 </div>
 

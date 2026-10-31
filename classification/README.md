@@ -4,7 +4,7 @@
 
 A complete, machine-readable Chinese–English version of the Nice Classification used by CNIPA: 45 classes, 495 sub-classes and every listed goods/services item in both languages — as **Markdown pages**, **CSV** and **JSON**.
 
-**[← Back to the main guide](../README.md)** · **[Free availability check](https://china-trademark.net/search.php)** · **[Class selection guide](../guides/05-nice-classification-guide-china.md)**
+**[← Back to the main guide](../README.md)** · **[Free availability check](https://portal.mycntm.com/?page=enquiry)** · **[Class selection guide](../guides/05-nice-classification-guide-china.md)**
 
 ---
 
@@ -133,4 +133,4 @@ const bySub = Object.groupBy(class9, i => i.subclass_code);
 
 ---
 
-由 [MY CNTM](https://china-trademark.net/about.php) 维护 · CNIPA 注册代理 · 商标注册 USD 199/类（含官费）· [免费查询](https://china-trademark.net/search.php) · [报价](https://china-trademark.net/quote.php)
+由 [MY CNTM](https://china-trademark.net/about.php) 维护 · CNIPA 注册代理 · 商标注册 USD 199/类（含官费）· [免费查询](https://portal.mycntm.com/?page=enquiry) · [报价](https://portal.mycntm.com/?page=support&intent=quote&service=registration)

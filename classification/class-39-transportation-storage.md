@@ -1,6 +1,6 @@
 # Class 39 — 运输贮藏 / Transportation and storage
 
-[← Class 38](class-38-communication.md) · [All 45 classes](README.md) · [Class 40 →](class-40-material-treatment.md)
+[← Class 38](class-38-communication.md) · [All 45 classes](README.md) · [Class 40 →](class-40-material-treatment.md) · [Search in Class 39](search.md?class=39)
 
 > **Nice Classification, Class 39** — 12 sub-classes (类似群) and **461 goods/services items**, Chinese–English, as used by CNIPA (China). Part of the [45-class bilingual classification dataset](README.md) from [china-trademark.net](https://china-trademark.net/).
 
@@ -560,7 +560,7 @@ Transport; packaging and storage of goods; travel arrangement.
 
 ---
 
-**Filing in Class 39?** [Free availability check and fixed quote](https://china-trademark.net/quote.php) — USD 199 per class, CNIPA official fee included, English service.
+**Filing in Class 39?** [Get a fixed quote](https://portal.mycntm.com/?page=support&intent=quote&service=registration) — USD 199 per class, CNIPA official fee included, English service.
 
 [All 45 classes](README.md) · [Class selection guide](../guides/05-nice-classification-guide-china.md) · [Cost and fees](../guides/02-china-trademark-cost-and-official-fees.md) · [Home](https://china-trademark.net/)
 

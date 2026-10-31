@@ -1,6 +1,6 @@
 # Class 43 — 餐饮住宿 / Restaurant and hotel services
 
-[← Class 42](class-42-computer-software.md) · [All 45 classes](README.md) · [Class 44 →](class-44-medical-beauty-agricultural.md)
+[← Class 42](class-42-computer-software.md) · [All 45 classes](README.md) · [Class 44 →](class-44-medical-beauty-agricultural.md) · [Search in Class 43](search.md?class=43)
 
 > **Nice Classification, Class 43** — 6 sub-classes (类似群) and **244 goods/services items**, Chinese–English, as used by CNIPA (China). Part of the [45-class bilingual classification dataset](README.md) from [china-trademark.net](https://china-trademark.net/).
 
@@ -307,7 +307,7 @@ Services for providing food and drink; temporary accommodation.
 
 ---
 
-**Filing in Class 43?** [Free availability check and fixed quote](https://china-trademark.net/quote.php) — USD 199 per class, CNIPA official fee included, English service.
+**Filing in Class 43?** [Get a fixed quote](https://portal.mycntm.com/?page=support&intent=quote&service=registration) — USD 199 per class, CNIPA official fee included, English service.
 
 [All 45 classes](README.md) · [Class selection guide](../guides/05-nice-classification-guide-china.md) · [Cost and fees](../guides/02-china-trademark-cost-and-official-fees.md) · [Home](https://china-trademark.net/)
 

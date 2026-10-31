@@ -1,6 +1,6 @@
 # Class 26 — 钮扣拉链 / Fancy goods
 
-[← Class 25](class-25-clothing.md) · [All 45 classes](README.md) · [Class 27 →](class-27-floor-coverings.md)
+[← Class 25](class-25-clothing.md) · [All 45 classes](README.md) · [Class 27 →](class-27-floor-coverings.md) · [Search in Class 26](search.md?class=26)
 
 > **Nice Classification, Class 26** — 11 sub-classes (类似群) and **270 goods/services items**, Chinese–English, as used by CNIPA (China). Part of the [45-class bilingual classification dataset](README.md) from [china-trademark.net](https://china-trademark.net/).
 
@@ -358,7 +358,7 @@ Lace and embroidery, ribbons and braid; buttons, hooks and eyes, pins and needle
 
 ---
 
-**Filing in Class 26?** [Free availability check and fixed quote](https://china-trademark.net/quote.php) — USD 199 per class, CNIPA official fee included, English service.
+**Filing in Class 26?** [Get a fixed quote](https://portal.mycntm.com/?page=support&intent=quote&service=registration) — USD 199 per class, CNIPA official fee included, English service.
 
 [All 45 classes](README.md) · [Class selection guide](../guides/05-nice-classification-guide-china.md) · [Cost and fees](../guides/02-china-trademark-cost-and-official-fees.md) · [Home](https://china-trademark.net/)
 

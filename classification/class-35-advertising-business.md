@@ -1,6 +1,6 @@
 # Class 35 — 广告销售 / Advertising and business
 
-[← Class 34](class-34-smokers-articles.md) · [All 45 classes](README.md) · [Class 36 →](class-36-insurance-financial.md)
+[← Class 34](class-34-smokers-articles.md) · [All 45 classes](README.md) · [Class 36 →](class-36-insurance-financial.md) · [Search in Class 35](search.md?class=35)
 
 > **Nice Classification, Class 35** — 9 sub-classes (类似群) and **652 goods/services items**, Chinese–English, as used by CNIPA (China). Part of the [45-class bilingual classification dataset](README.md) from [china-trademark.net](https://china-trademark.net/).
 
@@ -728,7 +728,7 @@ Advertising; business management; business administration; office functions.
 
 ---
 
-**Filing in Class 35?** [Free availability check and fixed quote](https://china-trademark.net/quote.php) — USD 199 per class, CNIPA official fee included, English service.
+**Filing in Class 35?** [Get a fixed quote](https://portal.mycntm.com/?page=support&intent=quote&service=registration) — USD 199 per class, CNIPA official fee included, English service.
 
 [All 45 classes](README.md) · [Class selection guide](../guides/05-nice-classification-guide-china.md) · [Cost and fees](../guides/02-china-trademark-cost-and-official-fees.md) · [Home](https://china-trademark.net/)
 

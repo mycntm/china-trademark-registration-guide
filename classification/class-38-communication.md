@@ -1,6 +1,6 @@
 # Class 38 — 通讯服务 / Communication services
 
-[← Class 37](class-37-construction-repair.md) · [All 45 classes](README.md) · [Class 39 →](class-39-transportation-storage.md)
+[← Class 37](class-37-construction-repair.md) · [All 45 classes](README.md) · [Class 39 →](class-39-transportation-storage.md) · [Search in Class 38](search.md?class=38)
 
 > **Nice Classification, Class 38** — 2 sub-classes (类似群) and **248 goods/services items**, Chinese–English, as used by CNIPA (China). Part of the [45-class bilingual classification dataset](README.md) from [china-trademark.net](https://china-trademark.net/).
 
@@ -287,7 +287,7 @@ Telecommunications.
 
 ---
 
-**Filing in Class 38?** [Free availability check and fixed quote](https://china-trademark.net/quote.php) — USD 199 per class, CNIPA official fee included, English service.
+**Filing in Class 38?** [Get a fixed quote](https://portal.mycntm.com/?page=support&intent=quote&service=registration) — USD 199 per class, CNIPA official fee included, English service.
 
 [All 45 classes](README.md) · [Class selection guide](../guides/05-nice-classification-guide-china.md) · [Cost and fees](../guides/02-china-trademark-cost-and-official-fees.md) · [Home](https://china-trademark.net/)
 

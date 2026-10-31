@@ -1,6 +1,6 @@
 # Class 01 — 化学原料 / Chemicals
 
-[All 45 classes](README.md) · [Class 02 →](class-02-paints.md)
+[All 45 classes](README.md) · [Class 02 →](class-02-paints.md) · [Search in Class 01](search.md?class=01)
 
 > **Nice Classification, Class 01** — 17 sub-classes (类似群) and **1,903 goods/services items**, Chinese–English, as used by CNIPA (China). Part of the [45-class bilingual classification dataset](README.md) from [china-trademark.net](https://china-trademark.net/).
 
@@ -2027,7 +2027,7 @@ Chemicals used in industry, science and photography, as well as in agriculture, 
 
 ---
 
-**Filing in Class 01?** [Free availability check and fixed quote](https://china-trademark.net/quote.php) — USD 199 per class, CNIPA official fee included, English service.
+**Filing in Class 01?** [Get a fixed quote](https://portal.mycntm.com/?page=support&intent=quote&service=registration) — USD 199 per class, CNIPA official fee included, English service.
 
 [All 45 classes](README.md) · [Class selection guide](../guides/05-nice-classification-guide-china.md) · [Cost and fees](../guides/02-china-trademark-cost-and-official-fees.md) · [Home](https://china-trademark.net/)
 

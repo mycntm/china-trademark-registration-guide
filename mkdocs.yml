@@ -51,6 +51,11 @@ theme:
 extra_css:
   - assets/stylesheets/extra.css
 
+# Only does anything on the classification search page (it bails out when
+# #tm-search is absent), so one file covers the whole site.
+extra_javascript:
+  - javascripts/classification-search.js
+
 plugins:
   - search:
       lang: [en, zh]
@@ -81,6 +86,7 @@ nav:
       - "Squatters: recover your brand": guides/04-china-trademark-squatters-recover-your-brand.md
       - Nice classification guide: guides/05-nice-classification-guide-china.md
   - 45-class classification:
+      - Search goods & services: classification/search.md
       - Overview and downloads: classification/index.md
       - Classes 01–14 · goods:
           - "Class 01 · 化学原料": classification/class-01-chemicals.md

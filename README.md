@@ -7,7 +7,7 @@
 [![Fixed Fee](https://img.shields.io/badge/Registration-%24199%2Fclass-orange)](https://china-trademark.net/china-trademark-registration/)
 [![English Service](https://img.shields.io/badge/Service-100%25%20English-9cf)](https://china-trademark.net/)
 
-**[📖 Read this as a website](https://mycntm.github.io/china-trademark-registration-guide/)** · **[Website](https://china-trademark.net/)** · **[All guides](#-guides)** · **[45-class classification](#-nice-classification-chineseenglish-dataset)** · **[Free availability check](https://china-trademark.net/search.php)** · **[FAQ](https://china-trademark.net/faq.php)** · **[Contact](https://china-trademark.net/contact.php)**
+**[📖 Read this as a website](https://mycntm.github.io/china-trademark-registration-guide/)** · **[🔎 Search the classification](https://mycntm.github.io/china-trademark-registration-guide/classification/search.html)** · **[Website](https://china-trademark.net/)** · **[All guides](#-guides)** · **[45-class classification](#-nice-classification-chineseenglish-dataset)** · **[Free availability check](https://portal.mycntm.com/?page=enquiry)** · **[FAQ](https://china-trademark.net/faq.php)** · **[Contact](https://china-trademark.net/contact.php)**
 
 ---
 
@@ -90,7 +90,7 @@ All filings are made **directly with CNIPA** by a China-licensed agent — we ar
 | Service | Details |
 |---|---|
 | [Trademark registration](https://china-trademark.net/china-trademark-registration/) | USD 199/class, 10 items included, no Chinese entity needed |
-| [Trademark search](https://china-trademark.net/search.php) | Free preliminary availability check before you file |
+| [Trademark search](https://portal.mycntm.com/?page=enquiry) | Free preliminary availability check before you file |
 | [Renewal](https://china-trademark.net/china-trademark-renewal/) | 10-year term; file up to 12 months early, 6-month grace period |
 | [Assignment / transfer](https://china-trademark.net/china-trademark-assignment/) | Buy or sell registered Chinese marks |
 | [Licence recordal](https://china-trademark.net/china-trademark-licence-recordal/) | Record licensing deals with CNIPA so they bind third parties |
@@ -164,7 +164,7 @@ Zhongdu International Intellectual Property Agency (brand: MY CNTM) is a CNIPA-r
 ## Contact
 
 - 🌐 **Website:** [china-trademark.net](https://china-trademark.net/)
-- 📮 **Free quote / availability check:** [china-trademark.net/quote.php](https://china-trademark.net/quote.php)
+- 📮 **Free quote / availability check:** [request a quote in the client portal](https://portal.mycntm.com/?page=support&intent=quote&service=registration)
 - ✉️ **Enquiries:** [contact form](https://china-trademark.net/contact.php) — English replies, usually within one business day
 
 ---

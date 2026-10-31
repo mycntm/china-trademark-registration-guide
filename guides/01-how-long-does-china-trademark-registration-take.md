@@ -64,7 +64,7 @@ File **before** you exhibit at a trade fair, publish a Chinese-language site, or
 
 ---
 
-**Need a timeline for your specific mark?** [Request a free availability check](https://china-trademark.net/quote.php) — we come back with a search result, a class recommendation and a realistic estimate, in English.
+**Need a timeline for your specific mark?** [Request a free availability check](https://portal.mycntm.com/?page=support&intent=quote&service=registration) — we come back with a search result, a class recommendation and a realistic estimate, in English.
 
 **Related guides:** [China trademark cost and official fees](02-china-trademark-cost-and-official-fees.md) · [Madrid Protocol vs direct CNIPA filing](03-madrid-protocol-vs-direct-cnipa-filing.md) · [Nice classification guide for China](05-nice-classification-guide-china.md)
 

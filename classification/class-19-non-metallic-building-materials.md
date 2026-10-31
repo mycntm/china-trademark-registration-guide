@@ -1,6 +1,6 @@
 # Class 19 — 建筑材料 / Non-metallic building materials
 
-[← Class 18](class-18-leather-goods.md) · [All 45 classes](README.md) · [Class 20 →](class-20-furniture.md)
+[← Class 18](class-18-leather-goods.md) · [All 45 classes](README.md) · [Class 20 →](class-20-furniture.md) · [Search in Class 19](search.md?class=19)
 
 > **Nice Classification, Class 19** — 15 sub-classes (类似群) and **629 goods/services items**, Chinese–English, as used by CNIPA (China). Part of the [45-class bilingual classification dataset](README.md) from [china-trademark.net](https://china-trademark.net/).
 
@@ -746,7 +746,7 @@ Building materials (non-metallic); non-metallic rigid pipes for building; asphal
 
 ---
 
-**Filing in Class 19?** [Free availability check and fixed quote](https://china-trademark.net/quote.php) — USD 199 per class, CNIPA official fee included, English service.
+**Filing in Class 19?** [Get a fixed quote](https://portal.mycntm.com/?page=support&intent=quote&service=registration) — USD 199 per class, CNIPA official fee included, English service.
 
 [All 45 classes](README.md) · [Class selection guide](../guides/05-nice-classification-guide-china.md) · [Cost and fees](../guides/02-china-trademark-cost-and-official-fees.md) · [Home](https://china-trademark.net/)
 
