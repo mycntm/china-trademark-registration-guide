@@ -12,7 +12,7 @@ If you already hold an international registration, Madrid looks attractive: one 
 | Who you deal with | A CNIPA-registered Chinese agent | WIPO, which forwards to CNIPA |
 | Language | English instructions, filed in Chinese | English/French/Spanish at WIPO; CNIPA examines in Chinese |
 | Cost structure | Fixed per class (USD 199 through us) | CHF base fee + China individual fee + your home agent's fee |
-| Typical time to registration | 9–12 months | 12–18 months |
+| Typical time to registration | **7–9 months** in practice (**12–15** statutory ceiling) | 12–18 months |
 | Dependency on base mark | None | Yes — for 5 years, the designation can fall with the base mark ("central attack") |
 | Scope control | You define classes and items per filing | Item scope constrained by your international registration |
 | Refusal handling | Direct correspondence with CNIPA through your agent | Refusal relayed via WIPO, with WIPO's deadline mechanics |
@@ -29,7 +29,7 @@ If you already hold an international registration, Madrid looks attractive: one 
 ## When direct filing wins
 
 - **You want to file in China now and your home application is not ready.** Madrid cannot start without a base filing.
-- **Speed matters.** A launch, a trade fair, a factory agreement — 9–12 months beats 12–18.
+- **Speed matters.** A launch, a trade fair, a factory agreement — seven to nine months in practice beats twelve to eighteen through WIPO.
 - **You want item-level control.** China's sub-class system rewards a precise goods/services list. Madrid ties your China scope to your international registration, which is often drafted for a different market.
 - **You want to avoid central attack.** If your base mark is weak, or your home agent is handling an opposition against it, Madrid puts your China rights on the same fault line.
 - **You expect a refusal.** Refusals routed through WIPO add correspondence layers and tight deadlines. Direct representation is cleaner to argue.

@@ -7,7 +7,7 @@
 [![Fixed Fee](https://img.shields.io/badge/Registration-%24199%2Fclass-orange)](https://china-trademark.net/china-trademark-registration/)
 [![English Service](https://img.shields.io/badge/Service-100%25%20English-9cf)](https://china-trademark.net/)
 
-**[Website](https://china-trademark.net/)** · **[All guides](#-guides)** · **[Free availability check](https://china-trademark.net/search.php)** · **[FAQ](https://china-trademark.net/faq.php)** · **[Contact](https://china-trademark.net/contact.php)**
+**[Website](https://china-trademark.net/)** · **[All guides](#-guides)** · **[45-class classification](#-nice-classification-chineseenglish-dataset)** · **[Free availability check](https://china-trademark.net/search.php)** · **[FAQ](https://china-trademark.net/faq.php)** · **[Contact](https://china-trademark.net/contact.php)**
 
 ---
 
@@ -15,7 +15,7 @@
 
 A free, version-controlled copy of the reference material we use when advising foreign companies on Chinese trademark matters — timelines, fee structures, filing routes and dispute options. Everything here is written for brand owners and in-house counsel outside China who need to make a decision without reading Chinese law.
 
-If you only need one number: **a China trademark application costs USD 199 per class** through us, all-inclusive of the CNIPA official fee, and typically reaches registration in **9–12 months**.
+If you only need one number: **a China trademark application costs USD 199 per class** through us, all-inclusive of the CNIPA official fee, and a clean case normally reaches registration in **7–9 months** — the statutory ceiling is higher, **12–15 months** if every stage runs to its limit (see the [two timelines](#-statutory-deadlines-vs-what-actually-happens) below).
 
 ## Quick reference
 
@@ -23,12 +23,55 @@ If you only need one number: **a China trademark application costs USD 199 per c
 |---|---|
 | Cost per class | **USD 199** — includes 10 goods/services and the CNIPA official fee |
 | Extra items in a class | USD 10 each |
-| Time to registration | **9–12 months** typical (1 day to file once approved) |
+| Time to registration | **7–9 months** in practice; **12–15 months** statutory ceiling |
 | Protection term | **10 years** from registration, renewable indefinitely |
 | Do I need a Chinese company? | **No** — a foreign company or individual can own a Chinese trademark |
 | Filing language | English instructions; we file in Chinese |
 | Opposition window | 3 months, **shortening to 2 months from 1 January 2027** |
 | Paris Convention priority | Claimable within 6 months of your home filing |
+
+## ⏱ Statutory deadlines vs. what actually happens
+
+Every Chinese filing runs on two clocks, and they are not the same clock. The **statutory** figures are the ceilings and rights periods written into the Trademark Law; the **practical** figures are what your calendar actually looks like. Plan a launch on the practical column — treat the statutory column as the outer bound, and as the deadlines you must never miss.
+
+| Stage | 法定时限 / statutory | 实务周期 / in practice |
+|---|---|---|
+| Filing → acceptance notice (受理通知书) | No fixed deadline | ~15 days |
+| Substantive examination (实质审查) | **9 months** from receipt of the application (Art. 28) | **3–4 months** |
+| Publication and opposition (异议期) | **3 months** (Art. 33), **shortening to 2 months from 1 Jan 2027** | The full window is always waited out |
+| Certificate after the window closes | No fixed deadline | 2–4 weeks |
+| **Total, clean case** | **12–15 months** if every stage runs to its limit | **7–9 months** |
+| Refusal review (驳回复审) | File within **15 days**; decision within **9 months**, extendable by 3 (Art. 34) | 6–12 months for a result |
+| Renewal (续展) | From **12 months** before expiry, **6-month** grace period (Art. 40) | 1–2 months |
+| Invalidation on relative grounds (无效宣告) | Within **5 years** of registration (Art. 45) | 9–18 months |
+| Non-use cancellation (撤销三年不使用) | After **3 years** of non-use (Art. 49) | 9–12 months |
+
+Two practical consequences that catch people out:
+
+1. **The statutory 9 months is a ceiling, not a forecast.** Examiners clear straightforward files in three to four months. If someone quotes you "at least a year because the law says nine months plus opposition", that is the worst case being sold as the expectation.
+2. **The deadlines you cannot miss are short.** 15 days to file a refusal review from receipt of the notice; a 2–3 month opposition window that cannot be extended. Everything else in the process is waiting; these are the only stages where being slow is fatal.
+
+Practical ranges reflect the files we handled in 2025–2026; statutory figures follow the Trademark Law of the PRC (2019 amendment) and the 2027 opposition-window change. Full stage-by-stage detail: [How long does China trademark registration take](guides/01-how-long-does-china-trademark-registration-take.md).
+
+## 🧭 Nice classification, Chinese–English (dataset)
+
+The full CNIPA classification in both languages — the thing most foreign applicants actually need and rarely find in usable form:
+
+- **45 classes** with Chinese and English headings and the official class descriptions
+- **495 sub-classes (类似群)** — the layer that decides whether your 10 items actually protect anything
+- **32,665 goods and services items**, each with 中文 / English, sub-class and official code
+
+Browse: **[classification/ →](classification/README.md)** · Download: **[CSV](data/nice-classification-zh-en.csv)** · **[JSON](data/nice-classification.json)** · **[classes.csv](data/classes.csv)** · **[subclasses.csv](data/subclasses.csv)**
+
+| Class | 中文 | English | Items |
+|---:|---|---|---:|
+| [09](classification/class-09-electrical-scientific.md) | 科学仪器 | Electrical and scientific apparatus | 3,156 |
+| [35](classification/class-35-advertising-business.md) | 广告销售 | Advertising and business | 652 |
+| [25](classification/class-25-clothing.md) | 服装鞋帽 | Clothing | 791 |
+| [42](classification/class-42-computer-software.md) | 设计研究 | Computer and software services | 908 |
+| [All 45 classes →](classification/README.md) | | | 32,665 |
+
+Every class has its own page with items grouped by sub-class, so you can see exactly which 类似群 a candidate list covers. Licensed **CC BY 4.0** — copy it, mirror it, quote it, just link back.
 
 ## 📚 Guides
 
@@ -75,7 +118,7 @@ Yes, with narrow exceptions. Whoever files first generally wins, even if you use
 Yes. China follows the Nice system with 45 classes, and each class is filed and charged separately. One application can cover multiple classes, but you may want separate filings so a problem in one class does not hold up the others.
 
 **What happens if my application is refused?**
-CNIPA issues a refusal notice with reasons and a deadline to respond (typically 15 days for the notification itself, then the review period). We assess whether to argue, narrow the goods/services, or refile, and handle the review filing.
+CNIPA issues a refusal notice stating its grounds. You then have **15 days from receipt** to apply for review (驳回复审) — that deadline is statutory and cannot be extended. The review decision itself usually takes 6–12 months. We assess whether to argue, narrow the goods/services, or refile, and handle the review filing.
 
 **Does a Chinese registration protect me outside China?**
 No. Trademark rights are territorial. A Chinese registration covers mainland China only — Hong Kong, Macao and Taiwan run separate systems and require separate filings.
