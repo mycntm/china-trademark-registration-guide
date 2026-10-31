@@ -38,6 +38,8 @@ BUILD = REPO / ".build" / "docs"
 
 SHELL_FILES = ["index.md", "license.md", "robots.txt"]
 CONTENT_DIRS = ["guides", "classification", "data"]
+# Static assets that belong to the site shell (stylesheets, images, ...)
+ASSET_DIRS = ["assets", "javascripts"]
 
 # (pattern, replacement) — applied to every copied Markdown file
 REWRITES = [
@@ -56,6 +58,11 @@ def build(quiet: bool = False) -> Path:
         src = REPO / "docs" / name
         if src.exists():
             shutil.copyfile(src, BUILD / name)
+
+    for name in ASSET_DIRS:
+        src = REPO / "docs" / name
+        if src.is_dir():
+            shutil.copytree(src, BUILD / name)
 
     for name in CONTENT_DIRS:
         src = REPO / name

@@ -247,7 +247,7 @@ def build(src: Path) -> None:
         1 for k, v in __import__("collections").Counter(i["code"] for i in items if i["code"]).items() if v > 1
     )
     idx = [
-        "# 45 类商标分类中英文对照 · Nice Classification (Chinese–English)",
+        "# Nice Classification China — all 45 classes in Chinese and English",
         "",
         "> **完整的中文商标分类对照表** — 45 个类别的中英文类名、类别说明、495 个类似群（sub-classes）与 "
         f"**{total_items:,} 条商品/服务项目中英对照**，与中国国家知识产权局（CNIPA）使用的分类体系一致。"

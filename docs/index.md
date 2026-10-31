@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 <!--
   This is the home page of the generated site. It is staged together with
   guides/, classification/ and data/ by scripts/build-docs.py, so the relative
@@ -5,16 +11,32 @@
   GitHub will show them as unresolved — that is expected.
 -->
 
-# 中国商标注册指南 · China Trademark Registration Guide
+<div class="hero" markdown>
 
-Bilingual reference material on **filing, renewing and defending a trademark in China** — written for brand owners, in-house counsel and overseas agents who need to make a decision without reading Chinese law.
+<p class="hero__eyebrow">CNIPA-registered agency · USD 199 per class · 5,000+ cases</p>
 
-Maintained by **[MY CNTM](https://china-trademark.net/about.php)**, a CNIPA-registered Chinese trademark agency: 5,000+ cases, 50+ countries, fixed fees, filed directly with CNIPA, no Chinese entity required.
+# China trademark registration, explained in English
+
+<p class="hero__lede">Filing, renewing and defending a trademark in China — written for brand owners, in-house counsel and overseas agents who need to decide without reading Chinese law. Includes the complete Nice Classification for China in Chinese and English.</p>
+
+<div class="hero__actions" markdown>
 
 [Read the guides](guides/index.md){ .md-button .md-button--primary }
-[45 类分类对照表](classification/index.md){ .md-button }
+[45 类中英对照](classification/index.md){ .md-button }
+[Free availability check](https://china-trademark.net/search.php){ .md-button }
 
----
+</div>
+
+<div class="stats">
+<div class="stat"><b>45</b><span>Classes 类别</span></div>
+<div class="stat"><b>495</b><span>Sub-classes 类似群</span></div>
+<div class="stat"><b>32,665</b><span>Items 商品项</span></div>
+<div class="stat"><b>7–9 mo</b><span>Typical 实务周期</span></div>
+</div>
+
+</div>
+
+Maintained by **[MY CNTM](https://china-trademark.net/about.php)**, a CNIPA-registered Chinese trademark agency: fixed fees, filed directly with CNIPA, no Chinese entity required.
 
 ## What is here
 
@@ -53,6 +75,14 @@ Maintained by **[MY CNTM](https://china-trademark.net/about.php)**, a CNIPA-regi
     [china-trademark.net →](https://china-trademark.net/)
 
 </div>
+
+## Nice Classification for China (China trademark classification)
+
+The classification China actually examines against: **45 classes, 495 sub-classes (类似群) and 32,665 goods and services items**, each with its official Chinese wording and a matching English name.
+
+Every class has its own page, grouped by sub-class rather than listed flat — because within a single class, items sitting in different sub-classes are generally *not* treated as similar goods, and that is what decides whether a 10-item filing actually blocks anyone else. The same data ships as CSV and JSON under CC BY 4.0: mirror it, ship it inside your own tools, cite it.
+
+[Browse the 45 classes →](classification/index.md)
 
 ## Quick answers
 

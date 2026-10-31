@@ -1,7 +1,8 @@
-site_name: China Trademark Registration Guide
+site_name: China Trademark Registration · Nice Classification
 site_description: >-
-  Plain-English guides to registering, renewing and defending a trademark in China,
-  plus the full 45-class Chinese–English Nice classification (32,665 goods and services items).
+  How to register a trademark in China: costs, timelines, class strategy and squatters.
+  Plus the full Nice Classification for China in Chinese and English — 45 classes,
+  495 sub-classes and 32,665 goods and services items, as CSV and JSON.
 site_url: https://mycntm.github.io/china-trademark-registration-guide/
 repo_url: https://github.com/mycntm/china-trademark-registration-guide
 repo_name: mycntm/china-trademark-registration-guide
@@ -17,17 +18,20 @@ use_directory_urls: false
 theme:
   name: material
   language: en
+  # No Google Fonts request: the CSS defines a system font stack instead.
+  font: false
+  # Colours come from docs/assets/stylesheets/extra.css
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
+      primary: custom
       accent: amber
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
+      primary: custom
       accent: amber
       toggle:
         icon: material/brightness-4
@@ -35,12 +39,17 @@ theme:
   features:
     - navigation.tracking
     - navigation.top
+    - navigation.path
     - navigation.indexes
     - navigation.footer
     - toc.follow
     - search.suggest
     - search.highlight
     - content.code.copy
+    - content.tooltips
+
+extra_css:
+  - assets/stylesheets/extra.css
 
 plugins:
   - search:
