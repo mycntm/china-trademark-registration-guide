@@ -1,0 +1,71 @@
+name: Deploy docs
+
+on:
+  push:
+    branches: [main]
+    # Keep this list in sync with what actually ends up on the site. The page
+    # bodies live in guides/ classification/ data/ and are staged into MkDocs at
+    # build time, so they must trigger a rebuild even though docs_dir is .build.
+    paths:
+      - "docs/**"
+      - "guides/**"
+      - "classification/**"
+      - "data/**"
+      - "mkdocs.yml"
+      - "requirements.txt"
+      - "scripts/**"
+      - "README.md"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Never run two deploys at once; let an in-flight one finish.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Stage guides/, classification/ and data/ for MkDocs
+        run: python scripts/build-docs.py
+
+      - name: Check nav entries and relative links
+        run: python scripts/check-docs.py
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      # Not --strict on purpose: MkDocs treats intra-page anchor warnings as
+      # fatal there, and scripts/check-docs.py already fails on real breakage.
+      - name: Build site
+        run: mkdocs build --clean
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

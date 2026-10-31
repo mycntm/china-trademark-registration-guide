@@ -170,5 +170,3 @@ Zhongdu International Intellectual Property Agency (brand: MY CNTM) is a CNIPA-r
 ---
 
 *Guides last reviewed: October 2026. Content is general information for brand owners, not legal advice on a specific matter. Fees and official practice change — confirm current figures before relying on them.*
-
-
