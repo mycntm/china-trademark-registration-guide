@@ -1,0 +1,3 @@
+mkdocs-material>=9.5,<10
+# Chinese segmentation for the search plugin (lang: zh)
+jieba>=0.42

@@ -7,7 +7,7 @@
 [![Fixed Fee](https://img.shields.io/badge/Registration-%24199%2Fclass-orange)](https://china-trademark.net/china-trademark-registration/)
 [![English Service](https://img.shields.io/badge/Service-100%25%20English-9cf)](https://china-trademark.net/)
 
-**[Website](https://china-trademark.net/)** · **[All guides](#-guides)** · **[45-class classification](#-nice-classification-chineseenglish-dataset)** · **[Free availability check](https://china-trademark.net/search.php)** · **[FAQ](https://china-trademark.net/faq.php)** · **[Contact](https://china-trademark.net/contact.php)**
+**[📖 Read this as a website](https://mycntm.github.io/china-trademark-registration-guide/)** · **[Website](https://china-trademark.net/)** · **[All guides](#-guides)** · **[45-class classification](#-nice-classification-chineseenglish-dataset)** · **[Free availability check](https://china-trademark.net/search.php)** · **[FAQ](https://china-trademark.net/faq.php)** · **[Contact](https://china-trademark.net/contact.php)**
 
 ---
 
@@ -125,6 +125,32 @@ No. Trademark rights are territorial. A Chinese registration covers mainland Chi
 
 **How long is a Chinese trademark valid?**
 10 years from the registration date, renewable for further 10-year terms indefinitely. Renewal can be filed from 12 months before expiry, with a 6-month grace period (plus a late fee) after.
+
+## 📖 Documentation site
+
+The pages above are also published as a browsable, searchable site — quicker to read than Markdown in a repository, and every page gets a stable HTML URL you can cite:
+
+**<https://mycntm.github.io/china-trademark-registration-guide/>**
+
+It is built with **MkDocs Material** and deploys to GitHub Pages on every push to `main`. The Markdown in this repository remains the single source of truth: `docs/` holds only the site shell (home page, license page, `robots.txt`), and `scripts/build-docs.py` stages `guides/`, `classification/` and `data/` into a build tree at deploy time. **No source file is moved, renamed or duplicated in git.**
+
+```bash
+pip install -r requirements.txt
+python scripts/build-docs.py    # stage guides/, classification/, data/ into .build/docs
+mkdocs serve                    # http://127.0.0.1:8000
+python scripts/check-docs.py    # nav + relative-link check (no dependencies)
+```
+
+| Path | Role |
+|---|---|
+| `guides/`, `classification/`, `data/` | Source content — unchanged, browsable here on GitHub exactly as before |
+| `docs/` | Site shell only: home page, license page, `robots.txt` |
+| `mkdocs.yml` | Theme, navigation, bilingual search (English + Chinese) |
+| `scripts/build-docs.py` | Stages the build tree; the only place link paths are adjusted for the web |
+| `scripts/build-classification.py` | Regenerates the 45 class pages and the data files from the catalogue |
+| `scripts/check-docs.py` | Verifies nav entries and relative links before deploy |
+| `.github/workflows/pages.yml` | Builds and publishes the site |
+| `.build/`, `site/` | Generated output — not committed |
 
 ## About MY CNTM
 

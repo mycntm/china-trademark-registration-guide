@@ -140,7 +140,9 @@ def build(src: Path) -> None:
             fh, ensure_ascii=False, separators=(",", ":"),
         )
         fh.write("\n")
-    shutil.copyfile(src, REPO / "data/catalogue.json.gz")
+    dest = REPO / "data/catalogue.json.gz"
+    if src.resolve() != dest.resolve():
+        shutil.copyfile(src, dest)
 
     # ---- one page per class -------------------------------------------------
     page_names: dict[str, str] = {}

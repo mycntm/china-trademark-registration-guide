@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mycntm.github.io/china-trademark-registration-guide/sitemap.xml

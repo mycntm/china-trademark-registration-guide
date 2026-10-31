@@ -1,0 +1,125 @@
+site_name: China Trademark Registration Guide
+site_description: >-
+  Plain-English guides to registering, renewing and defending a trademark in China,
+  plus the full 45-class Chinese–English Nice classification (32,665 goods and services items).
+site_url: https://mycntm.github.io/china-trademark-registration-guide/
+repo_url: https://github.com/mycntm/china-trademark-registration-guide
+repo_name: mycntm/china-trademark-registration-guide
+# Staged by scripts/build-docs.py: the original guides/, classification/ and
+# data/ stay in the repository root and are copied in, untouched.
+docs_dir: .build/docs
+copyright: Text and data licensed CC BY 4.0 · Maintained by MY CNTM (china-trademark.net)
+
+# Static .html URLs (not /page/) so that relative links such as ../data/x.csv
+# resolve correctly from every page. Do not change without rewriting those links.
+use_directory_urls: false
+
+theme:
+  name: material
+  language: en
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tracking
+    - navigation.top
+    - navigation.indexes
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search:
+      lang: [en, zh]
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+
+extra:
+  generator: false
+
+nav:
+  - Home: index.md
+  - Guides:
+      - Overview: guides/index.md
+      - How long does registration take: guides/01-how-long-does-china-trademark-registration-take.md
+      - Cost and official fees: guides/02-china-trademark-cost-and-official-fees.md
+      - Madrid vs direct filing: guides/03-madrid-protocol-vs-direct-cnipa-filing.md
+      - "Squatters: recover your brand": guides/04-china-trademark-squatters-recover-your-brand.md
+      - Nice classification guide: guides/05-nice-classification-guide-china.md
+  - 45-class classification:
+      - Overview and downloads: classification/index.md
+      - Classes 01–14 · goods:
+          - "Class 01 · 化学原料": classification/class-01-chemicals.md
+          - "Class 02 · 颜料油漆": classification/class-02-paints.md
+          - "Class 03 · 日化用品": classification/class-03-cosmetics-cleaning.md
+          - "Class 04 · 燃料油脂": classification/class-04-lubricants-fuels.md
+          - "Class 05 · 医药": classification/class-05-pharmaceuticals.md
+          - "Class 06 · 金属材料": classification/class-06-metal.md
+          - "Class 07 · 机械设备": classification/class-07-machinery.md
+          - "Class 08 · 手工器械": classification/class-08-hand-tools.md
+          - "Class 09 · 科学仪器": classification/class-09-electrical-scientific.md
+          - "Class 10 · 医疗器械": classification/class-10-medical.md
+          - "Class 11 · 灯具空调": classification/class-11-environmental-control.md
+          - "Class 12 · 运输工具": classification/class-12-vehicles.md
+          - "Class 13 · 军火烟火": classification/class-13-firearms.md
+          - "Class 14 · 珠宝钟表": classification/class-14-jewelry.md
+      - Classes 15–28 · goods:
+          - "Class 15 · 乐器": classification/class-15-musical-instruments.md
+          - "Class 16 · 办公用品": classification/class-16-paper-goods-printed-matter.md
+          - "Class 17 · 橡胶制品": classification/class-17-rubber-goods.md
+          - "Class 18 · 皮革皮具": classification/class-18-leather-goods.md
+          - "Class 19 · 建筑材料": classification/class-19-non-metallic-building-materials.md
+          - "Class 20 · 家具": classification/class-20-furniture.md
+          - "Class 21 · 厨房洁具": classification/class-21-housewares-glass.md
+          - "Class 22 · 绳网袋篷": classification/class-22-cordage-fibers.md
+          - "Class 23 · 纱线丝": classification/class-23-yarns-threads.md
+          - "Class 24 · 布料床单": classification/class-24-fabrics.md
+          - "Class 25 · 服装鞋帽": classification/class-25-clothing.md
+          - "Class 26 · 钮扣拉链": classification/class-26-fancy-goods.md
+          - "Class 27 · 地毯席垫": classification/class-27-floor-coverings.md
+          - "Class 28 · 健身器材": classification/class-28-toys-sporting-goods.md
+      - Classes 29–34 · food and drink:
+          - "Class 29 · 食品": classification/class-29-meats-processed-foods.md
+          - "Class 30 · 方便食品": classification/class-30-staple-foods.md
+          - "Class 31 · 饲料种籽": classification/class-31-agricultural.md
+          - "Class 32 · 啤酒饮料": classification/class-32-light-beverages.md
+          - "Class 33 · 酒": classification/class-33-wines-spirits.md
+          - "Class 34 · 烟草烟具": classification/class-34-smokers-articles.md
+      - Classes 35–45 · services:
+          - "Class 35 · 广告销售": classification/class-35-advertising-business.md
+          - "Class 36 · 金融物管": classification/class-36-insurance-financial.md
+          - "Class 37 · 建筑修理": classification/class-37-construction-repair.md
+          - "Class 38 · 通讯服务": classification/class-38-communication.md
+          - "Class 39 · 运输贮藏": classification/class-39-transportation-storage.md
+          - "Class 40 · 材料加工": classification/class-40-material-treatment.md
+          - "Class 41 · 教育娱乐": classification/class-41-education-entertainment.md
+          - "Class 42 · 设计研究": classification/class-42-computer-software.md
+          - "Class 43 · 餐饮住宿": classification/class-43-restaurant-hotel.md
+          - "Class 44 · 医疗园艺": classification/class-44-medical-beauty-agricultural.md
+          - "Class 45 · 社会法律": classification/class-45-personal-legal.md
+  - License: license.md
