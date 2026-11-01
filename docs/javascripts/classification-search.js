@@ -561,7 +561,9 @@
         "</div>" +
         '<ul class="tm-sgroup__list">' +
           list.map(function (item) {
-            return "<li><span>" + escapeHtml(item.zh) + "</span>" +
+            return "<li>" +
+              '<span class="tm-sgroup__item"><b>' + escapeHtml(item.zh) + "</b>" +
+              (item.en ? "<i>" + escapeHtml(item.en) + "</i>" : "") + "</span>" +
               '<button type="button" class="tm-remove" data-k="' + escapeHtml(keyOf(item)) +
               '" aria-label="Remove ' + escapeHtml(item.zh) + '">&times;</button></li>';
           }).join("") +

@@ -1403,6 +1403,28 @@ body {
   line-height: 1.5;
 }
 
+/* Each list entry mirrors what Copy list and the CSV produce: the official
+   Chinese wording first, its English name right under it. */
+.tm-sgroup__item {
+  flex: 1;
+  min-width: 0;
+}
+
+.md-typeset .tm-sgroup__item b {
+  display: block;
+  font-weight: 400;
+  color: var(--tm-text);
+  overflow-wrap: break-word;
+}
+
+.md-typeset .tm-sgroup__item i {
+  display: block;
+  font-style: normal;
+  font-size: 0.54rem;
+  color: var(--tm-text-muted);
+  overflow-wrap: break-word;
+}
+
 .md-typeset .tm-remove {
   flex: 0 0 auto;
   width: 1.5rem;
