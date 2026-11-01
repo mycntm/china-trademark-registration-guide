@@ -3,7 +3,10 @@ site_description: >-
   How to register a trademark in China: costs, timelines, class strategy and squatters.
   Plus the full Nice Classification for China in Chinese and English — 45 classes,
   495 sub-classes and 32,665 goods and services items, as CSV and JSON.
-site_url: https://mycntm.github.io/china-trademark-registration-guide/
+# Served from the main site under /guide/ (baota nginx, static files).
+# The GitHub Pages deployment keeps building with the same canonical, so the
+# mirror can never outrank or duplicate china-trademark.net.
+site_url: https://china-trademark.net/guide/
 repo_url: https://github.com/mycntm/china-trademark-registration-guide
 repo_name: mycntm/china-trademark-registration-guide
 # Staged by scripts/build-docs.py: the original guides/, classification/ and
